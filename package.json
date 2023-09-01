@@ -1,12 +1,12 @@
 {
   "name": "fakebrowser",
-  "version": "0.0.66",
+  "version": "1.0.0",
   "description": "🤖 Fake fingerprints to bypass anti-bot systems. Simulate mouse and keyboard operations to make behavior like a real person.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kkoooqq/fakebrowser.git"
+    "url": "git+https://github.com/aviaialon/fakebrowser.git"
   },
-  "author": "kkoooqqq",
+  "author": "aviaialon",
   "license": "LGPLv3",
   "main": "dist/cjs/FakeBrowser.js",
   "module": "dist/esm/FakeBrowser.js",
@@ -42,9 +42,9 @@
     "node": ">=12.0.0"
   },
   "bugs": {
-    "url": "https://github.com/kkoooqq/fakebrowser/issues"
+    "url": "https://github.com/aviaialon/fakebrowser/issues"
   },
-  "homepage": "https://github.com/kkoooqq/fakebrowser#readme",
+  "homepage": "https://github.com/aviaialon/fakebrowser#readme",
   "dependencies": {
     "font-list": "*",
     "fs-extra": "*",
