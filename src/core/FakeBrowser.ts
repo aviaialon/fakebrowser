@@ -28,7 +28,7 @@ const kInternalHttpServerPort = process?.env?.debugPort || 17311
 export const kDefaultLaunchArgs = [
     '--no-sandbox',
     '--no-pings',
-    '--no-zygote',
+    //'--no-zygote',
     '--mute-audio',
     '--no-first-run',
     '--no-default-browser-check',
